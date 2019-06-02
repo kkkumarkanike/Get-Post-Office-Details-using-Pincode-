@@ -1,0 +1,12 @@
+.search-box{
+    box-shadow: 4px 4px 8px gray;
+    padding: 20px;
+}
+.tab{
+    text-align: center;
+}
+.left{
+    float: left;
+    background-color: red;
+}
+
